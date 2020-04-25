@@ -19,6 +19,6 @@ Memory Game, or Matching Game, is a simple card game where you need to match pai
 - createElement
 
 ### Time to play
-- [Play Game](/1MemooryGame/index.html)
+- [Play Game](https://htmlpreview.github.io/?https://github.com/serranobejarano/GamesWithJS/blob/master/1_MemoryGame/index.html)
 - [Check the code](/1_MemoryGame)
 
