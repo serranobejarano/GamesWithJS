@@ -9,6 +9,8 @@ A retro grid-based game in vanilla JavaScript, HTML and CSS.
 
 Memory Game, or Matching Game, is a simple card game where you need to match pairs by turn over 2 cards at a time. 
 
+[Check the code](/1_MemoryGame)
+
 ### Inbuilt functions to focus on:
 - for loops
 - addEventListener
@@ -18,7 +20,4 @@ Memory Game, or Matching Game, is a simple card game where you need to match pai
 - document.querySelector
 - createElement
 
-### Time to play
-- [Play Game](https://htmlpreview.github.io/?https://github.com/serranobejarano/GamesWithJS/blob/master/1_MemoryGame/play_online/index.html)
-- [Check the code](/1_MemoryGame)
 
