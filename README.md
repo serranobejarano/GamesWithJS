@@ -7,6 +7,7 @@ The original source of these games is [this repository](https://github.com/kubow
 1. [Memory Game](#1-memory-game)
 2. [Whack-a-mole](#2-whack-a-mole)
 3. [Connect Four](#3-connect-four)
+4. [Snake](#4-snake)
 
 ## 1. Memory Game
 
@@ -60,3 +61,18 @@ Connect Four is a two-player board game in which the players first choose a colo
 - arrow functions
 
 [Check the code!](/3_ConnectFour)
+
+## 4. Snake
+
+Well, everyone knows Snake. What else can I tell you about it?
+
+### Inbuilt functions to focus on:
+- project set up
+- linking your JavaScript and CSS files to - your HTML file
+- event listeners
+- query Selectors
+- arrow functions
+- forEach
+- setting time intervals and countdowns
+
+[Check the code!](/4_Snake)
