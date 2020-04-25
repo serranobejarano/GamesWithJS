@@ -9,8 +9,6 @@ A retro grid-based game in vanilla JavaScript, HTML and CSS.
 
 Memory Game, or Matching Game, is a simple card game where you need to match pairs by turn over 2 cards at a time. 
 
-[Check the code](/1_MemoryGame)
-
 ### Inbuilt functions to focus on:
 - for loops
 - addEventListener
@@ -20,4 +18,19 @@ Memory Game, or Matching Game, is a simple card game where you need to match pai
 - document.querySelector
 - createElement
 
+[Check the code!](/1_MemoryGame)
 
+## 2. Whack-a-mole
+Simple grid-based game using HTML, CSS and JavaScript. 
+
+The idea of whack-a-mole is simple! The player needs to hit the grid with the mole in as many times as possible until the time runs out.
+
+### Inbuilt functions to focus on:
+- document.querySelector
+- textContent
+- forEach
+- addEventListener
+- setInterval
+- classList.add
+
+[Check the code!](/2_Whack-a-mole)
