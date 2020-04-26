@@ -10,6 +10,7 @@ The original source of these games is [this repository](https://github.com/kubow
 4. [Snake](#4-snake)
 5. [Space Invaders](#5-space-invaders)
 6. [Frogger](#6-frogger)
+7. [Tetris](#7-Tetris)
 
 ## 1. Memory Game
 
@@ -92,6 +93,8 @@ Space Invaders is a simple grid-based game in which you as the shooter have to s
 - Timeout
 - switch case
 
+[Check the code!](/5_SpaceInvaders)
+
 # 6. Frogger
 A retro grid-based game in vanilla JavaScript, HTML and CSS.
 
@@ -117,3 +120,10 @@ Frogger is a 1981 arcade game developed by Konami and originally published by Se
 - clearInterval
 - document.querySelector
 - arrow functions
+
+[Check the code!](/6_Frogger)
+
+## 7. Tetris
+Again... Who doesn't know tetris?
+
+[Check the code!](/7_Tetris)
