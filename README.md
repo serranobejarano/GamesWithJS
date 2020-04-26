@@ -8,6 +8,7 @@ The original source of these games is [this repository](https://github.com/kubow
 2. [Whack-a-mole](#2-whack-a-mole)
 3. [Connect Four](#3-connect-four)
 4. [Snake](#4-snake)
+5. [Space Invaders](#5-space-invaders)
 
 ## 1. Memory Game
 
@@ -76,3 +77,16 @@ Well, everyone knows Snake. What else can I tell you about it?
 - setting time intervals and countdowns
 
 [Check the code!](/4_Snake)
+
+# 5. Space Invaders
+A vanilla JavaScript game with HTML and CSS.
+
+Space Invaders is a simple grid-based game in which you as the shooter have to shoot down as many alien invaders before they get to you. We are going to build a 15 x 15 grid square with 20 invaders to shoot.
+
+### Inbuilt functions to focus on:
+- for loops
+- addEventListener
+- classList
+- document.querySelector
+- Timeout
+- switch case
